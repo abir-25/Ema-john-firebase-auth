@@ -1,0 +1,23 @@
+.login-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-form h2{
+    text-align: center;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 400px;
+}
+form input {
+  margin-bottom: 10px;
+  font-size: 15px;
+  height: 40px;
+  width: 100%;
+}
+input[type="submit"] {
+  width: 408px;
+}
